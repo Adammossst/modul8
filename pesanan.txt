@@ -1,0 +1,6 @@
+Nama: Adam
+Email: adam@gmail.com
+Alamat Pengiriman: Bandung
+Produk yang dipesan: Hp
+Jumlah Produk: 1
+
